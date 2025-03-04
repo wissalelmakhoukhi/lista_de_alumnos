@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1740405682 source:c:\users\nabil\desktop\ingeneria informatica\2024-2025\2 cuatrotremestre\pr1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<sstream>
+
